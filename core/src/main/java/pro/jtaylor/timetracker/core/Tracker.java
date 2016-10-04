@@ -26,7 +26,7 @@ public class Tracker {
 
     public TimeEntry get(int index) {
         try {
-        } catch (exception e){
+        } catch (Exception e){
         }
         
         boolean valid = false;
